@@ -2,7 +2,7 @@
 
 Track SwiftUI animation progress and completion via callbacks! For an animated value (offset, opacity, etc.), get its current value as the animation progresses and then get notified when the animation is completed.
 
-![Preview](https://github.com/globulus/swiftui-animation-observer/blob/main/Images/preview_large.gif?raw=true)
+![Preview](https://github.com/globulus/swiftui-animation-observer/blob/main/Images/preview.gif?raw=true)
 
 ## Installation
 
